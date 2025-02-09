@@ -1,0 +1,1 @@
+﻿New-Cluster –Name MyCluster01 –Node sqlsrv-01.mylab.com, sqlsrv-02.mylab.com –StaticAddress 192.168.10.110

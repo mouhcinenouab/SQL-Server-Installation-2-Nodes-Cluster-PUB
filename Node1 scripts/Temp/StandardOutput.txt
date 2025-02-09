@@ -1,0 +1,4 @@
+SQL Server 2016 transmits information about your installation experience, as well as other usage and performance data, to Microsoft to help improve the product. To learn more about SQL Server 2016 data processing and privacy controls, please see the Privacy Statement.
+Microsoft (R) SQL Server 2016 13.00.5026.00
+Copyright (c) 2016 Microsoft.  All rights reserved.
+
